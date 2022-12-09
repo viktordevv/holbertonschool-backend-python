@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ Annotates the below function’s parameters """
 
 from typing import List, Tuple, Sequence, Iterable

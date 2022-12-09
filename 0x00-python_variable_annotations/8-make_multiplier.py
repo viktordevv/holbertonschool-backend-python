@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-""" Takes a float multiplier,
-returns a function that multiplies a float by multiplier """
+""" Takes a float multiplier"""
 
 from typing import Callable
 

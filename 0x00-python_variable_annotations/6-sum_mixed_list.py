@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """ Takes list input of of integers and floats, returns float """
 
 from typing import List, Union
